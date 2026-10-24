@@ -1,0 +1,13 @@
+{
+  "id": "hello-sample",
+  "name": "示例插件",
+  "version": "1.0.0",
+  "description": "演示外部插件契约：整页挂载、命名空间存储、桌面能力调用。",
+  "author": "CodeShell",
+  "permissions": [
+    "通知提示",
+    "桌面 API"
+  ],
+  "icon": "🧩",
+  "renderer": "renderer.js"
+}
