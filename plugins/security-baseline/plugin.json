@@ -1,0 +1,12 @@
+{
+  "id": "security-baseline",
+  "name": "安全基线检查",
+  "version": "1.0.0",
+  "description": "只读扫描服务器配置风险与漏洞，可导出 PDF / Word 报告，并可作为 AI 对话上下文。",
+  "permissions": [
+    "SSH 只读检查",
+    "报告导出",
+    "AI 对话上下文"
+  ],
+  "builtin": true
+}
