@@ -1,0 +1,12 @@
+{
+  "id": "batch-ops",
+  "name": "批量运维",
+  "version": "1.0.0",
+  "description": "同一批命令广播到多台机器并行执行；也支持公钥下发、跨服务器传输、批量上传与表同步。",
+  "permissions": [
+    "SSH 批量执行",
+    "文件传输",
+    "表同步"
+  ],
+  "builtin": true
+}
