@@ -1,0 +1,10 @@
+{
+  "id": "portscan",
+  "name": "端口速查",
+  "version": "1.0.0",
+  "description": "查看服务器监听端口、内存 TOP 进程与磁盘使用（只读，不动配置）。",
+  "permissions": [
+    "SSH 只读检查"
+  ],
+  "builtin": true
+}

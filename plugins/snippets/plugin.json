@@ -1,0 +1,11 @@
+{
+  "id": "snippets",
+  "name": "快捷命令",
+  "version": "1.0.0",
+  "description": "常用命令收藏夹：搜索、分类，一键复制或发送到当前终端执行。",
+  "permissions": [
+    "终端命令发送",
+    "本地存储"
+  ],
+  "builtin": true
+}

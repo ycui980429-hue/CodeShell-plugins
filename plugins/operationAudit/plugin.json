@@ -1,0 +1,11 @@
+{
+  "id": "operationAudit",
+  "name": "操作审计",
+  "version": "1.0.0",
+  "description": "查看会改变目标环境的操作记录（AI 命令 / 数据库写入 / 容器启停），支持按资产聚合、CSV 导出与高风险实时提醒。",
+  "permissions": [
+    "操作记录读取",
+    "CSV 导出"
+  ],
+  "builtin": true
+}

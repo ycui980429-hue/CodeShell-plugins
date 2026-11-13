@@ -1,0 +1,11 @@
+{
+  "id": "serverStatus",
+  "name": "服务器状态条",
+  "version": "1.0.0",
+  "description": "在终端顶部实时显示服务器（或本机）的 CPU / 内存 / 负载 / 磁盘，点击展开分区明细。",
+  "permissions": [
+    "SSH 只读采集",
+    "终端顶部插槽"
+  ],
+  "builtin": true
+}
